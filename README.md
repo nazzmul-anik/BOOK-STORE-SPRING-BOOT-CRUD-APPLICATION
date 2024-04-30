@@ -3,7 +3,6 @@
 
 # About This Project
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Created a simple Employee Portal that supports the following CRUD actions: <br>
 
 1. <b>HOME :</b> This is a HOME page of "BOOK STORE". <br>
 
@@ -27,7 +26,8 @@ Created a simple Employee Portal that supports the following CRUD actions: <br>
 * <b>CSS</b> <br>
 * <b>BOOTSTRAP 5</b>
   <h1>DATABASE</h1>
-* <b>MYSQL</b> <br>
+* <b>SQL</b>
+* <b>MySQL</b> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Picture
